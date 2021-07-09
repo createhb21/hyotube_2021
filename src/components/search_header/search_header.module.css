@@ -27,3 +27,10 @@
   height: 100%;
   padding: 0.5em 0.2em;
 }
+
+.title a {
+  color: inherit;
+  text-decoration: none;
+  list-style: none;
+  cursor: pointer;
+}
